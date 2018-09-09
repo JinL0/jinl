@@ -1,0 +1,115 @@
+*
+{
+	margin: 0; 
+	padding:0; 
+}
+
+header{
+	background-image:url(pic1.jpg);
+	height: 100vh; 
+	background-size: cover;
+	background-position: center;	
+	
+}
+.grid {
+	display: inline-block; 
+	margin: 10px 5px;
+}
+
+.nav-bar
+{
+	background: rgb(0, 0, 0, 0.5); 
+	height: 100px; 
+}
+
+.logo {
+	margin: 20px 50px; 
+	height: 50px; 
+}
+
+.topleft {
+	font-family:  sans-serif; 
+	text-align: right;
+	text-decoration: none; 
+	padding: 10px 10px; 
+	font-family:  sans-serif;
+	letter-spacing:  2px;
+}
+.menu{
+	float: right; 
+	list-style:none;
+	margin:  20px;	
+}
+
+.menu li{
+	display: inline-block; 
+	margin: 10px 5px; 
+}
+
+.menu li a{
+	text-decoration:  none; 
+	color: #fff; 
+	padding: 5px 10px; 
+	font-family:  sans-serif;
+	letter-spacing:  2px;
+	border:1px solid #fff; 
+}
+
+.menu li a:hover{
+	background: #d5c4c4;
+	transition: .4s; 
+	color: : #000;
+}
+
+.welcome{
+	position: relative;
+	text-align: center;
+	font-family:  sans-serif;
+	color: #fff;
+	top: 160px;
+	
+}
+
+.welcome h1{
+	font-size: 42px; 
+	margin: 25px; 
+}
+.btn{
+	font-size:18px;
+	letter-spacing: 2px; 
+	margin: 5px; 
+	padding: 7px 10px; 
+	text-decoration: none;
+	border:  1px solid #fff;
+}
+.btn1{
+	background: #fff; 
+	color: #000;
+}
+.btn2{
+	color:#fff;
+}
+.btn:hover{
+	background: #fff; 
+	color: #000; 
+	transition: .4s;
+}
+.project{
+	text-align: start;
+	font-family:  sans-serif;
+	color: #fff;
+	top: 160px;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    padding:10px;
+    transition: .4s;
+}
+.row:after {
+    content:close-quote;
+    display: table;
+    clear: both;
+    transition: .4s;
+}
