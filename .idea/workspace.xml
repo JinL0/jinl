@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2790ea30-7d26-4c20-b31a-058f4e44015e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/animalshelter/img/about-img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/animalshelter/img/about-img.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/animalshelter/img/call-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/animalshelter/img/call-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/animalshelter/img/video-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/animalshelter/img/video-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/animalshelter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/animalshelter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.html" beforeDir="false" afterPath="$PROJECT_DIR$/project.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,12 +23,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="1" />
+          <entry key="html" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="1" />
+          <entry key="HTML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -48,11 +45,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/animalshelter/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="51" column="67" selection-start-line="51" selection-start-column="67" selection-end-line="51" selection-end-column="67" />
+            <state relative-caret-position="77">
+              <caret line="46" column="32" lean-forward="true" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="47" column="45" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -66,6 +72,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/animalshelter/index.html" />
+        <option value="$PROJECT_DIR$/project.html" />
       </list>
     </option>
   </component>
@@ -76,8 +83,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-138" />
-    <option name="y" value="43" />
+    <option name="x" value="-63" />
+    <option name="y" value="23" />
     <option name="width" value="1260" />
     <option name="height" value="733" />
   </component>
@@ -94,11 +101,6 @@
             <path>
               <item name="writemyown" type="b2602c69:ProjectViewProjectNode" />
               <item name="writemyown" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="writemyown" type="b2602c69:ProjectViewProjectNode" />
-              <item name="writemyown" type="462c0819:PsiDirectoryNode" />
-              <item name="animalshelter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -134,24 +136,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542500259236</updated>
-      <workItem from="1542500261743" duration="4264000" />
+      <workItem from="1542500261743" duration="4377000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4264000" />
+    <option name="totallyTimeSpent" value="4377000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-276" y="170" width="1260" height="733" extended-state="0" />
+    <frame x="-63" y="23" width="1260" height="733" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24939467" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939467" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32917318" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49959645" visible="true" weight="0.32917318" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5004035" side_tool="true" weight="0.32917318" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -173,8 +175,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/animalshelter/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="51" column="67" selection-start-line="51" selection-start-column="67" selection-end-line="51" selection-end-column="67" />
+        <state relative-caret-position="77">
+          <caret line="46" column="32" lean-forward="true" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="47" column="45" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
         </state>
       </provider>
     </entry>
